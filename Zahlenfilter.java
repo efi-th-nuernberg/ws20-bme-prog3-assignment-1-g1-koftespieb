@@ -17,7 +17,7 @@ class Zahlenfilter{
       }
       if((i+(i-1)) %3 == 0)
       {
-        System.out.println(i + " und " + (i-1) + " addiert ergeben " +(i+(i-1)) +" und "+(i+(i-1))+" ist durch 3 teilbar\n");
+        System.out.println(i + " und " + (i-1) + " addiert ergeben " +(i+(i-1)) +" und " +(i+(i-1))+ " ist durch 3 teilbar\n");
       }
     }
   }
